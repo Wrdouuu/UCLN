@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\UCLN\bin\Debug\net8.0\UCLN.exe
+C:\Users\admin\Desktop\Bai tap\UCLN\bin\Debug\net8.0\UCLN.deps.json
+C:\Users\admin\Desktop\Bai tap\UCLN\bin\Debug\net8.0\UCLN.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\UCLN\bin\Debug\net8.0\UCLN.dll
+C:\Users\admin\Desktop\Bai tap\UCLN\bin\Debug\net8.0\UCLN.pdb
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\UCLN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\UCLN.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\UCLN.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\UCLN.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\UCLN.dll
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\refint\UCLN.dll
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\UCLN.pdb
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\UCLN.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\UCLN\obj\Debug\net8.0\ref\UCLN.dll
